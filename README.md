@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,4 +20,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
