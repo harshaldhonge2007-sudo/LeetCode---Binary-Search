@@ -66,4 +66,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/harshaldhonge2007-sudo/LeetCode---Binary-Search/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
